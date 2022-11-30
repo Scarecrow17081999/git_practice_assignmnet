@@ -1,8 +1,8 @@
   
 let str="acbfgjs"
   
-let x=str1.split(" ").reverse().join(",");
+let x=str.split("").reverse().join("");
     
     
-  a==str1?console.log("Yes"):
-  console.log("No")
+  x==str?console.log("input is palindrome"):
+  console.log("input is not a palindrome")
